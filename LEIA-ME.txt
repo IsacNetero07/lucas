@@ -1,0 +1,15 @@
+LUCAS — VERSÃO FINAL PARA ENTREGA
+
+A versão já está com o texto final do Isac.
+A página de fotos fica preparada para receber a foto tirada amanhã.
+
+Para testar:
+1. Abra o CMD dentro desta pasta.
+2. Rode: python -m http.server 8082
+3. Abra: http://127.0.0.1:8082
+
+Para colocar a foto depois:
+- adicione a foto em assets/fotos/
+- podemos substituir os espaços reservados da galeria pela foto real.
+
+Não há Service Worker nesta versão, para evitar cache de outro projeto.
